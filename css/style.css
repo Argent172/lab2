@@ -3,16 +3,16 @@
 }
 body{padding-bottom: 10000px;}
 
-[a]{position: absolute;
+.absolute{position: absolute;
 	top:0px;
 	left:1250px}
-[r]{position: absolute;
+.relative{position: absolute;
 	top:0px;
 	left:750px;}
-[f]{position: absolute;
+.fixed{position: absolute;
 	top:0px;
 	left: 1650px}
-[s]{position: absolute;
+.static{position: absolute;
 	top:0px;
 	left:250px;}
 
